@@ -7,16 +7,13 @@ h1 {
   color: blue;
 }
 
-h4{
+h4 {
   font-family: 'Abel', sans-serif;
 font-family: 'Cherry Cream Soda', cursive;
 font-family: 'Space Mono', monospace;
 }
 
-#image {
-  width: 10px;
-  height: 20px;
-}
+
 
 .topnav {
   background-color: #795548;

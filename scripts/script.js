@@ -59,7 +59,7 @@ function generateCoolNameFacts(userName) {
       img.setAttribute("src","photos/dragon2.jpg");
       document.body.appendChild(img);
 
-      return "<br>" + "you are a dragon!" 
+      return "<br>" + "your spirit animal is a dragon!" 
       
     }
       
@@ -67,14 +67,14 @@ function generateCoolNameFacts(userName) {
       var img = document.createElement("img");
       img.setAttribute("src","photos/pegasus.png");
       document.body.appendChild(img);
-      return "<br>" + "you are a pegasus" 
+      return "<br>" + "your spirit animal is a pegasus" 
     }
 
     else{
       var img = document.createElement("img");
       img.setAttribute("src","photos/griffin.jpg");
       document.body.appendChild(img);
-      return "<br>" + "you are a griffin"
+      return "<br>" + "your spirit animal is a griffin"
 
     }
     
