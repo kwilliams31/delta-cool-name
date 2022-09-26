@@ -41,16 +41,20 @@ font-family: 'Space Mono', monospace;
   float: left;
 }
 
-
+#images{
+  display: none;
+  visibility: hidden;
+}
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   background-color: #C5E1A5;
   max-width: 300px;
-  margin: 40px 0px;
-  text-align: center;
+  margin: 40px 20px;
+  text-align: center; 
   
 }
+
 
 #userName{
   margin: 12px 1px;
